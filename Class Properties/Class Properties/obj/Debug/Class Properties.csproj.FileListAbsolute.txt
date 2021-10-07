@@ -1,0 +1,7 @@
+C:\Users\kunal\source\repos\Class Properties\Class Properties\bin\Debug\Class Properties.exe.config
+C:\Users\kunal\source\repos\Class Properties\Class Properties\bin\Debug\Class Properties.exe
+C:\Users\kunal\source\repos\Class Properties\Class Properties\bin\Debug\Class Properties.pdb
+C:\Users\kunal\source\repos\Class Properties\Class Properties\obj\Debug\Class Properties.csproj.AssemblyReference.cache
+C:\Users\kunal\source\repos\Class Properties\Class Properties\obj\Debug\Class Properties.csproj.CoreCompileInputs.cache
+C:\Users\kunal\source\repos\Class Properties\Class Properties\obj\Debug\Class Properties.exe
+C:\Users\kunal\source\repos\Class Properties\Class Properties\obj\Debug\Class Properties.pdb

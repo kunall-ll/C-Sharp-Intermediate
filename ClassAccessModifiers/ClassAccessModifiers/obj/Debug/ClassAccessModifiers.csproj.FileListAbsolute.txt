@@ -1,0 +1,7 @@
+C:\Users\kunal\source\repos\ClassAccessModifiers\ClassAccessModifiers\bin\Debug\ClassAccessModifiers.exe.config
+C:\Users\kunal\source\repos\ClassAccessModifiers\ClassAccessModifiers\bin\Debug\ClassAccessModifiers.exe
+C:\Users\kunal\source\repos\ClassAccessModifiers\ClassAccessModifiers\bin\Debug\ClassAccessModifiers.pdb
+C:\Users\kunal\source\repos\ClassAccessModifiers\ClassAccessModifiers\obj\Debug\ClassAccessModifiers.csproj.AssemblyReference.cache
+C:\Users\kunal\source\repos\ClassAccessModifiers\ClassAccessModifiers\obj\Debug\ClassAccessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\kunal\source\repos\ClassAccessModifiers\ClassAccessModifiers\obj\Debug\ClassAccessModifiers.exe
+C:\Users\kunal\source\repos\ClassAccessModifiers\ClassAccessModifiers\obj\Debug\ClassAccessModifiers.pdb

@@ -1,0 +1,6 @@
+C:\Users\kunal\source\repos\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe.config
+C:\Users\kunal\source\repos\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe
+C:\Users\kunal\source\repos\Encapsulation\Encapsulation\bin\Debug\Encapsulation.pdb
+C:\Users\kunal\source\repos\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\kunal\source\repos\Encapsulation\Encapsulation\obj\Debug\Encapsulation.exe
+C:\Users\kunal\source\repos\Encapsulation\Encapsulation\obj\Debug\Encapsulation.pdb

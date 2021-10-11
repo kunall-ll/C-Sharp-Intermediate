@@ -1,0 +1,6 @@
+C:\Users\kunal\source\repos\Interface\Interface\bin\Debug\Interface.exe.config
+C:\Users\kunal\source\repos\Interface\Interface\bin\Debug\Interface.exe
+C:\Users\kunal\source\repos\Interface\Interface\bin\Debug\Interface.pdb
+C:\Users\kunal\source\repos\Interface\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\kunal\source\repos\Interface\Interface\obj\Debug\Interface.exe
+C:\Users\kunal\source\repos\Interface\Interface\obj\Debug\Interface.pdb
